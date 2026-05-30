@@ -1071,6 +1071,42 @@
     ]
   },
 
+  "Nicole Demara": {
+    "url_imagem": "https://raw.githubusercontent.com/Abzame/ZZZ-Task-Tracker/refs/heads/main/imagens/Nicole%20Demara.png",
+    "elemento": "Ether / Support",
+    "habilidades": [
+      "Basic Attack - 1",
+      "Dodge - 1",
+      "Quick Assist - 1",
+      "Special Attack - 11",
+      "Chain Attack - 11"
+    ],
+    "prioridades": [
+      "[1ª] Maximizar Nível do Agente e Motor W",
+      "[2ª] Upar Passiva",
+      "[3ª] Upar as habilidades",
+      "[4ª] Farmar Disco e upar os discos"
+    ],
+
+
+    "Discos Main stats": [
+      "Slot 6: Anomaly Mastery",
+      "Slot 5: Ether DMG Bonus",
+      "Slot 4: Anomaly Proficiency"
+    ],
+
+    "Discos Sub-stats":[
+      "Anomaly Proficiency",
+      "Percent ATK"
+    ],
+
+    "Discos":[
+      "[4 set] Swing Jazz",
+      "[2 set] Chaotic Metal"
+
+    ]
+  },
+
   "Orphie Magnusson & Magus": {
     "url_imagem": "https://raw.githubusercontent.com/Abzame/ZZZ-Task-Tracker/refs/heads/main/imagens/Orphie%20%26%20Magus.png",
     "elemento": "Fire / Attack",
@@ -1398,8 +1434,476 @@
       "[4 set] Shadow Harmony",
       "[2 set] Woodpecker Electro"
     ]
+  },
+
+  "Soldier 11": {
+    "url_imagem": "https://raw.githubusercontent.com/Abzame/ZZZ-Task-Tracker/refs/heads/main/imagens/Soldier%2011.png",
+    "elemento": "Fire / Attack",
+    "habilidades": [
+      "Basic Attack - 12",
+      "Dodge - 1",
+      "Quick Assist - 1",
+      "Special Attack - 12",
+      "Chain Attack - 12"
+    ],
+    "prioridades": [
+      "[1ª] Maximizar Nível do Agente e Motor W",
+      "[2ª] Upar Passiva",
+      "[3ª] Upar as habilidades",
+      "[4ª] Farmar Disco e upar os discos"
+    ],
+
+
+    "Discos Main stats": [
+      "Slot 6: ATK",
+      "Slot 5: Fire DMG Bonus",
+      "Slot 4: CRIT Rate"
+    ],
+
+    "Discos Sub-stats":[
+      "CRIT Rate",
+      "CRIT DMG",
+      "Percent ATK"
+    ],
+
+    "Discos":[
+      "[4 set] Inferno Metal",
+      "[2 set] Woodpecker Electro"
+    ]
+  },
+
+  "Soukaku": {
+    "url_imagem": "https://raw.githubusercontent.com/Abzame/ZZZ-Task-Tracker/refs/heads/main/imagens/Soukaku.png",
+    "elemento": "Ice / Support",
+    "habilidades": [
+      "Basic Attack - 11",
+      "Dodge - 11",
+      "Quick Assist - 13",
+      "Special Attack - 16",
+      "Chain Attack - 13"
+    ],
+    "prioridades": [
+      "[1ª] Maximizar Nível do Agente e Motor W",
+      "[2ª] Upar Passiva",
+      "[3ª] Upar as habilidades",
+      "[4ª] Farmar Disco e upar os discos"
+    ],
+
+
+    "Discos Main stats": [
+      "Slot 6: Energy Regen",
+      "Slot 5: ATK",
+      "Slot 4: ATK / CRIT Rate"
+    ],
+
+    "Discos Sub-stats":[
+      "Percent ATK",
+      "CRIT Rate",
+      "CRIT DMG",
+      "Anomaly Proficiency"
+    ],
+
+    "Discos":[
+      "[4 set] Freedom Blues",
+      "[2 set] Hormane Punk"
+    ]
+  },
+
+  "Sunna": {
+    "url_imagem": "https://raw.githubusercontent.com/Abzame/ZZZ-Task-Tracker/refs/heads/main/imagens/Sunna.png",
+    "elemento": "Physical / Support",
+    "habilidades": [
+      "Special Attack - 12",
+      "Chain Attack - 11",
+      "Quick Assist - 10",
+      "Basic Attack - 10",
+      "Dodge - 7"
+    ],
+    "prioridades": [
+      "[1ª] Maximizar Nível do Agente e Motor W",
+      "[2ª] Upar Passiva",
+      "[3ª] Upar as habilidades",
+      "[4ª] Farmar Disco e upar os discos"
+    ],
+
+
+    "Discos Main stats": [
+      "Slot 6: Energy Regen",
+      "Slot 5: ATK",
+      "Slot 4: ATK"
+    ],
+
+    "Discos Sub-stats":[
+      "Percent ATK",
+      "ATK"
+    ],
+
+    "Discos":[
+      "[4 set] Moonlight Lullaby",
+      "[2 set] Swing Jazz"
+    ]
+  },
+
+  "Trigger": {
+    "url_imagem": "https://raw.githubusercontent.com/Abzame/ZZZ-Task-Tracker/refs/heads/main/imagens/Trigger.png",
+    "elemento": "Electric / Stun",
+    "habilidades": [
+      "Basic Attack - 12",
+      "Special Attack - 11",
+      "Chain Attack - 11",
+      "Quick Assist - 7",
+      "Dodge - 1"
+    ],
+    "prioridades": [
+      "[1ª] Maximizar Nível do Agente e Motor W",
+      "[2ª] Upar Passiva",
+      "[3ª] Upar as habilidades",
+      "[4ª] Farmar Disco e upar os discos"
+    ],
+
+
+    "Discos Main stats": [
+      "Slot 6: Impact",
+      "Slot 5: Electric DMG Bonus / ATK",
+      "Slot 4: CRIT Rate"
+    ],
+
+    "Discos Sub-stats":[
+      "CRIT Rate",
+      "CRIT DMG",
+      "Percent ATK"
+    ],
+
+    "Discos":[
+      "[4 set] King of the Summit",
+      "[2 set] Shockstar Disco"
+    ]
+  },
+
+  "Tsukishiro Yanagi ": {
+    "url_imagem": "https://raw.githubusercontent.com/Abzame/ZZZ-Task-Tracker/refs/heads/main/imagens/Tsukishiro%20Yanagi.png",
+    "elemento": "Electric / Anomaly",
+    "habilidades": [
+      "Basic Attack - 12",
+      "Dodge - 7",
+      "Quick Assist - 9",
+      "Special Attack - 12",
+      "Chain Attack - 9"
+    ],
+    "prioridades": [
+      "[1ª] Maximizar Nível do Agente e Motor W",
+      "[2ª] Upar Passiva",
+      "[3ª] Upar as habilidades",
+      "[4ª] Farmar Disco e upar os discos"
+    ],
+
+
+    "Discos Main stats": [
+      "Slot 6: ATK / Anomaly Mastery",
+      "Slot 5: Electric DMG Bonus / ATK",
+      "Slot 4: Anomaly Proficiency"
+    ],
+
+    "Discos Sub-stats":[
+      "Percent ATK",
+      "Anomaly Proficiency"
+    ],
+
+    "Discos":[
+      "[4 set] Chaos Jazz",
+      "[2 set] Freedom Blues"
+    ]
+  },
+
+  "Ukinami Yuzuha": {
+    "url_imagem": "https://raw.githubusercontent.com/Abzame/ZZZ-Task-Tracker/refs/heads/main/imagens/Ukinami%20Yuzuha.png",
+    "elemento": "Physical / Support",
+    "habilidades": [
+      "Special Attack - 12",
+      "Chain Attack - 12",
+      "Quick Assist - 11",
+      "Basic Attack - 11",
+      "Dodge - 7"
+    ],
+    "prioridades": [
+      "[1ª] Maximizar Nível do Agente e Motor W",
+      "[2ª] Upar Passiva",
+      "[3ª] Upar as habilidades",
+      "[4ª] Farmar Disco e upar os discos"
+    ],
+
+
+    "Discos Main stats": [
+      "Slot 6: Anomaly Mastery",
+      "Slot 5: ATK",
+      "Slot 4: ATK"
+    ],
+
+    "Discos Sub-stats":[
+      "Percent ATK",
+      "ATK",
+      "Anomaly Proficiency"
+    ],
+
+    "Discos":[
+      "[4 set] Moonlight Lullaby",
+      "[2 set] Phaethon's Melody"
+    ]
+  },
+
+  "Vivian Banshee": {
+    "url_imagem": "https://raw.githubusercontent.com/Abzame/ZZZ-Task-Tracker/refs/heads/main/imagens/Vivian%20Banshee.png",
+    "elemento": " Ether / Anomaly ",
+    "habilidades": [
+      "Basic Attack - 11",
+      "Chain Attack - 11",
+      "Quick Assist - 11",
+      "Special Attack - 11",
+      "Dodge - 1"
+    ],
+    "prioridades": [
+      "[1ª] Maximizar Nível do Agente e Motor W",
+      "[2ª] Upar Passiva",
+      "[3ª] Upar as habilidades",
+      "[4ª] Farmar Disco e upar os discos"
+    ],
+
+
+    "Discos Main stats": [
+      "Slot 6: Anomaly Mastery",
+      "Slot 5: Ether DMG Bonus",
+      "Slot 4: Anomaly Proficiency"
+    ],
+
+    "Discos Sub-stats":[
+      "Anomaly Proficiency",
+      "Percent ATK"
+    ],
+
+    "Discos":[
+      "[4 set] Phaethon's Melody",
+      "[2 set] Freedom Blues"
+    ]
+  },
+
+  "Von Lycaon": {
+    "url_imagem": "https://raw.githubusercontent.com/Abzame/ZZZ-Task-Tracker/refs/heads/main/imagens/Von%20Lycaon.png",
+    "elemento": " Ice / Stun ",
+    "habilidades": [
+      "Basic Attack - 11",
+      "Dodge - 11",
+      "Quick Assist - 11",
+      "Special Attack - 11",
+      "Chain Attack - 1"
+    ],
+    "prioridades": [
+      "[1ª] Maximizar Nível do Agente e Motor W",
+      "[2ª] Upar Passiva",
+      "[3ª] Upar as habilidades",
+      "[4ª] Farmar Disco e upar os discos"
+    ],
+
+
+    "Discos Main stats": [
+      "Slot 6: Impact",
+      "Slot 5: Ice DMG Bonus",
+      "Slot 4: CRIT Rate"
+    ],
+
+    "Discos Sub-stats":[
+      "CRIT Rate",
+      "CRIT DMG",
+      "Percent ATK"
+    ],
+
+    "Discos":[
+      "[4 set] Shockstar Disco",
+      "[2 set] Polar Metal"
+    ]
+  },
+
+  "Ye Shunguang": {
+    "url_imagem": "https://raw.githubusercontent.com/Abzame/ZZZ-Task-Tracker/refs/heads/main/imagens/Ye%20Shunguang.png",
+    "elemento": " Honed Edge / Attack ",
+    "habilidades": [
+      "Basic Attack - 11",
+      "Chain Attack - 11",
+      "Special Attack - 11",
+      "Quick Assist - 11",
+      "Dodge - 10"
+    ],
+    "prioridades": [
+      "[1ª] Maximizar Nível do Agente e Motor W",
+      "[2ª] Upar Passiva",
+      "[3ª] Upar as habilidades",
+      "[4ª] Farmar Disco e upar os discos"
+    ],
+
+
+    "Discos Main stats": [
+      "Slot 6: ATK",
+      "Slot 5: Physical DMG Bonus",
+      "Slot 4: CRIT DMG"
+    ],
+
+    "Discos Sub-stats":[
+      "CRIT DMG",
+      "Percent ATK",
+      "CRIT Rate",
+      "ATK"
+    ],
+
+    "Discos":[
+      "[4 set] White Water Ballad",
+      "[2 set] Branch & Blade Song"
+    ]
+  },
+
+  "Yidhari": {
+    "url_imagem": "https://raw.githubusercontent.com/Abzame/ZZZ-Task-Tracker/refs/heads/main/imagens/Yidhari.png",
+    "elemento": " Ice / Rupture ",
+    "habilidades": [
+      "Special Attack - 12",
+      "Chain Attack - 11",
+      "Basic Attack - 11",
+      "Dodge - 10",
+      "Quick Assist - 9"
+    ],
+    "prioridades": [
+      "[1ª] Maximizar Nível do Agente e Motor W",
+      "[2ª] Upar Passiva",
+      "[3ª] Upar as habilidades",
+      "[4ª] Farmar Disco e upar os discos"
+    ],
+
+
+    "Discos Main stats": [
+      "Slot 6: HP",
+      "Slot 5: Ice DMG Bonus / HP",
+      "Slot 4: CRIT DMG"
+    ],
+
+    "Discos Sub-stats":[
+      "CRIT Rate",
+      "CRIT DMG",
+      "Percent HP"
+    ],
+
+    "Discos":[
+      "[4 set] yunkui Tales",
+      "[2 set] Branch & Blade Song"
+    ]
+  },
+
+  "Yixuan": {
+    "url_imagem": "https://raw.githubusercontent.com/Abzame/ZZZ-Task-Tracker/refs/heads/main/imagens/Yixuan.png",
+    "elemento": " Auric Ink / Rupture ",
+    "habilidades": [
+      "Chain Attack - 12",
+      "Special Attack - 12",
+      "Basic Attack - 10",
+      "Dodge - 6",
+      "Quick Assist - 6"
+    ],
+    "prioridades": [
+      "[1ª] Maximizar Nível do Agente e Motor W",
+      "[2ª] Upar Passiva",
+      "[3ª] Upar as habilidades",
+      "[4ª] Farmar Disco e upar os discos"
+    ],
+
+
+    "Discos Main stats": [
+      "Slot 6: HP",
+      "Slot 5: Ether DMG Bonus / HP",
+      "Slot 4: CRIT DMG / CRIT Rate"
+    ],
+
+    "Discos Sub-stats":[
+      "CRIT DMG",
+      "CRIT Rate",
+      "Percent HP",
+      "Percent ATK"
+    ],
+
+    "Discos":[
+      "[4 set] yunkui Tales",
+      "[2 set] Branch & Blade Song"
+    ]
+  },
+
+  "Zhao": {
+    "url_imagem": "https://raw.githubusercontent.com/Abzame/ZZZ-Task-Tracker/refs/heads/main/imagens/Zhao.png",
+    "elemento": " Ice / Defense ",
+    "habilidades": [
+      "Special Attack - 12",
+      "Chain Attack - 12",
+      "Quick Assist - 12",
+      "Basic Attack - 1",
+      "Dodge - 1"
+    ],
+    "prioridades": [
+      "[1ª] Maximizar Nível do Agente e Motor W",
+      "[2ª] Upar Passiva",
+      "[3ª] Upar as habilidades",
+      "[4ª] Farmar Disco e upar os discos"
+    ],
+
+
+    "Discos Main stats": [
+      "Slot 6: HP / Energy Regen",
+      "Slot 5: HP",
+      "Slot 4: HP"
+    ],
+
+    "Discos Sub-stats":[
+      "Percent HP",
+      "HP",
+      "CRIT DMG",
+      "CRIT Rate"
+    ],
+
+    "Discos":[
+      "[4 set] Astral Voice",
+      "[2 set] Yunkui Tales"
+    ]
+  },
+
+  "Zhu Yuan": {
+    "url_imagem": "https://raw.githubusercontent.com/Abzame/ZZZ-Task-Tracker/refs/heads/main/imagens/Zhu%20Yuan.png",
+    "elemento": " Ether / Attack ",
+    "habilidades": [
+      "Basic Attack - 10",
+      "Dodge - 10",
+      "Quick Assist - 8",
+      "Special Attack - 10",
+      "Chain Attack - 10"
+    ],
+    "prioridades": [
+      "[1ª] Maximizar Nível do Agente e Motor W",
+      "[2ª] Upar Passiva",
+      "[3ª] Upar as habilidades",
+      "[4ª] Farmar Disco e upar os discos"
+    ],
+
+
+    "Discos Main stats": [
+      "Slot 6: ATK",
+      "Slot 5: Ether DMG Bonus",
+      "Slot 4: CRIT DMG"
+    ],
+
+    "Discos Sub-stats":[
+      "CRIT DMG",
+      "CRIT Rate",
+      "Percent ATK",
+      "ATK"
+    ],
+
+    "Discos":[
+      "[4 set] Chaotic Metal",
+      "[2 set] Woodpecker Electro"
+    ]
   }
-
-
 
 }

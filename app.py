@@ -5,6 +5,8 @@ import requests
 import json
 import io
 import os
+import flet as ft
+
 
 # Se quiser usar o arquivo local que criamos no Passo 1:
 ARQUIVO_DADOS = "zzz_agents.json"
@@ -168,3 +170,4 @@ class AppZZZPro(tk.Tk):
 if __name__ == "__main__":
     app = AppZZZPro()
     app.mainloop()
+    
